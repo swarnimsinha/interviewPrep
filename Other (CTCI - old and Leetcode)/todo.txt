@@ -1,0 +1,15 @@
+Tree traversal: BFS, DFS, Pre-order, In-order, Post-order
+Given a view hierarchy, print view, subview and sub-subview
+^ Do this iteratively and recursively
+
+Use DS to convert a tree into something else (data structure) - an array
+
+Check parenthesis
+
+OOP 
+
+Know Hash Maps
+
+RTA of sorting algorithms - Bubble, Merge
+
+Determine if string is palindrome or anagram
